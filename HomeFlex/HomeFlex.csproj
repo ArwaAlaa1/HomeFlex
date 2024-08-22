@@ -210,6 +210,16 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\css\apex-charts.css" />
+    <Content Include="Content\css\boxicons.css" />
+    <Content Include="Content\css\core.css" />
+    <Content Include="Content\css\demo.css" />
+    <Content Include="Content\css\page-account-settings.css" />
+    <Content Include="Content\css\page-auth.css" />
+    <Content Include="Content\css\page-icons.css" />
+    <Content Include="Content\css\page-misc.css" />
+    <Content Include="Content\css\perfect-scrollbar.css" />
+    <Content Include="Content\css\theme-default.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -229,6 +239,16 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\jquery\jquery.js" />
+    <Content Include="Scripts\js\apexcharts.js" />
+    <Content Include="Scripts\js\bootstrap.js" />
+    <Content Include="Scripts\js\config.js" />
+    <Content Include="Scripts\js\dashboards-analytics.js" />
+    <Content Include="Scripts\js\helpers.js" />
+    <Content Include="Scripts\js\main.js" />
+    <Content Include="Scripts\js\menu.js" />
+    <Content Include="Scripts\js\perfect-scrollbar.js" />
+    <Content Include="Scripts\js\popper.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -264,6 +284,9 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Shared\_AsidePartial.cshtml" />
+    <Content Include="Views\Shared\_NavBarPartial.cshtml" />
+    <Content Include="Views\Shared\_FooterPartial.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
