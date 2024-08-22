@@ -7,8 +7,8 @@ namespace HomeFlex.Models
 {
     public class Address
     {
-        public int Id { get; set; }
-        public string FName { get; set; }
+        //public int Id { get; set; }
+        //public string FName { get; set; }
         public String LName { get; set; }
         public string Street { get; set; }
         public string City { get; set; }
