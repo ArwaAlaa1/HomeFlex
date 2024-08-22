@@ -11,7 +11,7 @@ namespace HomeFlex.Models
     {
         public string FilePath { get; set; }
         public string Photo { get; set; }
-        public bool IsCompany { get; set; }
+        //public bool IsCompany { get; set; }
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser> manager)
         {
             // Note the authenticationType must match the one defined in CookieAuthenticationOptions.AuthenticationType

@@ -13,7 +13,7 @@ namespace HomeFlex.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202408220004430_initial"; }
+            get { return "202408221417023_initial"; }
         }
         
         string IMigrationMetadata.Source
